@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "437642629359",
+    "project_id": "authenticoproject",
+    "storage_bucket": "authenticoproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:437642629359:android:89a0f62ae3899e44fa8b1a",
+        "android_client_info": {
+          "package_name": "com.example.authentico"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9DJegxK7HVL2VaQienp8vhQgBPDqV-Hs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
