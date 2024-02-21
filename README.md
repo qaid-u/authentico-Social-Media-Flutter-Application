@@ -1,6 +1,6 @@
 # authentico
 
-A new Flutter project.
+Authentico is a social media app developed using Flutter and Firebase. It provides a platform for users to connect, share moments, and interact in a dynamic social environment. Leveraging Flutter for beautiful UIs and Firebase for backend services like authentication and real-time database.
 
 ## Getting Started
 
