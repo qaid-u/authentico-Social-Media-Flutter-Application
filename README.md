@@ -83,6 +83,8 @@ We believe that Authentico has the potential to make a positive impact on the wo
 •	Renderforest: Renderforest is an online video maker that allows users to create professional-looking videos without any video editing skills. Renderforest is popular among businesses and marketers because it provides a wide range of video templates and customization options.
 •	Android Studio: Android Studio is the official integrated development environment (IDE) for Android app development. Android Studio provides a suite of tools for developing, testing, and debugging Android apps. It is also the official IDE for Flutter development.
 
+## Screenshots of the project
+
 
 ## Getting Started
 
