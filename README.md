@@ -91,7 +91,6 @@ We believe that Authentico has the potential to make a positive impact on the wo
 ![alt text](https://github.com/qaid-u/authentico-Social-Media-Flutter-Application/blob/main/screenshots/photo_6255888633248728251_y.jpg)
 ![alt text](https://github.com/qaid-u/authentico-Social-Media-Flutter-Application/blob/main/screenshots/photo_6255888633248728252_y.jpg)
 ![alt text](https://github.com/qaid-u/authentico-Social-Media-Flutter-Application/blob/main/screenshots/photo_6255888633248728253_y.jpg)
-![alt text](https://github.com/qaid-u/authentico-Social-Media-Flutter-Application/blob/main/screenshots/photo_6255888633248728254_y.jpg)
 ![alt text](https://github.com/qaid-u/authentico-Social-Media-Flutter-Application/blob/main/screenshots/photo_6255888633248728255_y.jpg)
 
 ## Getting Started
