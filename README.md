@@ -1,6 +1,6 @@
 # Authentico
 
-App Features
+## App Features
 •	Dual camera mode: This would allow users to take a photo with both their front and rear cameras at the same time, providing a more complete view of their surroundings.
 •	Geotagging: This would allow users to see where their friends are when they take their photos, adding an extra layer of context and engagement.
 •	Private lockets: This would allow users to upload a photo that is only visible to a select group of friends. This would be great for sharing personal moments or for keeping certain photos private.
@@ -13,23 +13,22 @@ App Features
 •	Recap feature: Recap and go through all posts of your friends.
 •	Photo album feature: Showcase all posts from user and user’s friends.
 
-
-
-
-
-
-Background
+## Background
 Social media has become an integral part of our lives, but it can also be a breeding ground for unrealistic expectations and fake content. Apps like BeReal and Locket are trying to address this by encouraging users to share more authentic and spontaneous moments.
 Authentico is a new social application with the same concept. We believe that there is a need for a social platform where people can feel comfortable sharing their real lives, without having to worry about filters, editing, or getting the perfect shot.
-Opportunity or Problem
+
+## Opportunity or Problem
 Social media has a number of negative impacts on our mental health, including:
 •	Increased anxiety and depression: Social media can create a false sense of comparison, which can lead to feelings of anxiety and depression.
 •	Decreased self-esteem: Seeing other people's carefully curated lives can make us feel inadequate about our own lives.
 •	Loneliness: Social media can be isolating, as we can spend hours scrolling through feeds without actually connecting with anyone.
+
 Authentico is an opportunity to create a social platform that is more positive and supportive. By encouraging users to share their real lives, Authentico can help to reduce the pressure to be perfect and foster a more authentic community.
+
 Why is the Project Being Undertaken?
 We are undertaking this project because we believe that social media can be a force for good. We want to create a platform where people can feel comfortable sharing their real lives, without having to worry about filters, editing, or getting the perfect shot. We believe that Authentico can help to create a more positive and supportive online community.
-Project Goals
+
+## Project Goals
 The goals of the Authentico project are to:
 •	Create a social platform where people can feel comfortable sharing their real lives.
 •	Reduce the pressure to be perfect on social media.
@@ -37,7 +36,7 @@ The goals of the Authentico project are to:
 •	Creates a more reciprocal and engaging social media experience.
 We believe that Authentico can make a positive impact on the world by helping people to feel more connected and accepted.
 
-Objectives
+## Objectives
 Objectives for a project proposal of a social application with the same concept as BeReal and Locket, called Authentico:
 Objective 1: Develop a social application that allows users to share authentic and spontaneous moments with their friends.
 Objective 2: Create a platform where users can feel comfortable sharing their real lives, without having to worry about filters, editing, or getting the perfect shot.
@@ -45,7 +44,7 @@ Objective 3: Encourage users to connect with their friends and family in a more 
 Objective 4: Promote authenticity and spontaneity on social media.
 Objective 5: Create a more positive and supportive online community.
  
-Scope of the Project
+## Scope of the Project
 The scope of the Authentico project is to develop a social application that allows users to share authentic and spontaneous moments with their friends. The app will be designed for users of all ages, but the target audience is young adults (ages 18-35).
 The app will have the following features:
 •	Users will be able to share a photo once a day, at a random time.
@@ -59,7 +58,7 @@ The app will have the following features:
 •	Geotagging for users to locate where their photo was taken.
 •	Users have a dual camera mode that offers a complete view of their surroundings.
 
-Significance of the Project
+## Significance of the Project
 Authentico is significant because it addresses a few problems with traditional social media platforms. First, Authentico encourages users to be more authentic and spontaneous. By not allowing users to filter or edit their photos and videos, Authentico creates a platform where people can feel comfortable sharing their real lives.
 Second, Authentico promotes connection and community. By sharing authentic moments with their friends Authentico users are able to connect with each other on a deeper level. Additionally, the app's random notification system ensures that users are seeing their friends' real lives, rather than just their carefully curated feeds and the reciprocal system ensures every each of the user stays connected.
 Finally, Authentico has the potential to have a positive impact on mental health. By reducing the pressure to be perfect, Authentico can help to create a more positive and supportive online community.
@@ -68,7 +67,7 @@ Authentico is particularly significant for young adults (ages 18-35) because thi
 Authentico can help young adults to feel more comfortable sharing their real lives online and to connect with their friends and family in a more meaningful way. The app can also help to reduce the pressure to be perfect and to create a more positive and supportive online community.
 Overall, the Authentico project is a significant undertaking with the potential to make a positive impact on the world, especially for young adults.
 
-Expected Outcome:
+##Expected Outcome:
 At the end of the project, we will have developed a social application called Authentico that achieves the following outcomes:
 •	Users are able to share authentic and spontaneous moments with their friends.
 •	Users feel comfortable sharing their real lives, without having to worry about filters, editing, or getting the perfect shot.
@@ -78,7 +77,7 @@ At the end of the project, we will have developed a social application called Au
 We believe that Authentico has the potential to make a positive impact on the world by helping people to feel more connected and accepted.
 
  
-Selected Application Development Tool
+## Selected Application Development Tool
 •	Flutter: Flutter is an open-source UI toolkit created by Google. It allows developers to build native-looking applications for multiple platforms (Android, iOS, web, and desktop) with a single codebase. Flutter is known for its fast development workflow, rich set of widgets, and open-source community.
 •	Canva: Canva is a graphic design platform that allows users to create social media graphics, presentations, posters, and other visual content. Canva is popular among non-designers because it provides a user-friendly interface and a wide range of templates and design elements.
 •	Renderforest: Renderforest is an online video maker that allows users to create professional-looking videos without any video editing skills. Renderforest is popular among businesses and marketers because it provides a wide range of video templates and customization options.
